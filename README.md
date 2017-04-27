@@ -1,6 +1,6 @@
 # TechCrunch Reader
 
-![screen](../master/screenshot.jpg)
+![screen](../master/screenshot.png)
 
 
 ## Project Specification
