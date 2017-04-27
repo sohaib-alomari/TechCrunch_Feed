@@ -1,8 +1,8 @@
 # TechCrunch Reader
 
-![screen](../master/screenshot.jpg)
+![screen](../master/screenshot.jpg)![screen](../master/screenshots.jpg)
 
-![screen](../master/screenshots.jpg)
+
 ## Project Specification
 
 * App uses the Design Support library and its provided widget types (FloatingActionButton, AppBarLayout, SnackBar, etc).
